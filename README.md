@@ -15,3 +15,9 @@ When developing a big project, it's very useful to divide our code into modules 
 
 ![](/Screenshot_6.png)
 
+># Types of Module: 
+
+ >Modules can load each other and use special directives export and import to interchange functionality, call functions of one module from another one:
+
+1. export - keyword labels variables and functions that should be accessible from outside the current module.
+2. import - allows the import of functionality from other modules.
