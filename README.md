@@ -29,3 +29,12 @@ When developing a big project, it's very useful to divide our code into modules 
 In order to use the import declaration in a source file, the file must be interpreted by the runtime as a module. In HTML, this is done by adding type="module" to the <script> tag. Modules are automatically interpreted in strict mode.
 
 ![](/Screenshot_7.png)
+
+>## What is export in js ?
+
+ >What is export?
+The export statement is used when creating JavaScript modules to export functions, objects, or primitive values from the module so they can be used by other programs with the import statement.
+
+So basically it is used in a JavaScript files to make objects visible to other files (modules).
+
+![](/Screenshot_8.png)
