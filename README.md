@@ -13,3 +13,5 @@ When developing a big project, it's very useful to divide our code into modules 
 
 >Instead of having all of our program's components in a single file, we can divide it into parts or modules, and make each of them responsible for a single feature/concern.
 
+![](/Screenshot_6.png)
+
